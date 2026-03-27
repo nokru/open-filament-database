@@ -6,7 +6,7 @@
     "slicer_settings": {
         "orcaslicer": {
             "generic_id": "GFG99",
-            "id": "EPETGPROB00",
+            "id": "GFG99",
             "profile_name": "Elegoo PETG PRO"
         },
         "elegooslicer": {
